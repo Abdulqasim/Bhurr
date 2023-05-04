@@ -1,2 +1,2 @@
-# Bhurr
-Bus Reservation System
+# Voting 
+Voting System
